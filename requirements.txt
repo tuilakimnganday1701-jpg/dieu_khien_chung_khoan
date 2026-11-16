@@ -1,0 +1,8 @@
+voila>=0.5
+ipywidgets>=8
+ipykernel
+pandas
+numpy
+matplotlib
+seaborn
+scipy
